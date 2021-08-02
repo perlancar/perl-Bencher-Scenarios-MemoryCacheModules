@@ -2,3 +2,4 @@ Bencher-Scenarios-MemoryCacheModules-*
 .build
 *~
 nytprof*
+.DS_Store
